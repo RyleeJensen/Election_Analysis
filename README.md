@@ -15,7 +15,7 @@ Data Source: election_results.csv
 Software used: Python 3.8.8, Visual Studio Code 1.60.2
 
 ## Summary
-**The analysis of the election show:**
+**The analysis of the election show that:**
 - There were 369,711 votes cast total
 - The candidates inlcuded:
   - Charles Casper Stockham
@@ -27,3 +27,21 @@ Software used: Python 3.8.8, Visual Studio Code 1.60.2
   - Raymon Anthony Doan recieved 3.1% of the vote and 11,606 votes total.
 - The winner of the election was:
   - Diana Degette.
+
+## Overview of Election Audit
+The election commission has requested additional information in order to complete the election audit. This includes
+
+1. The voter turnout for each county.
+2. The percentage of votes from each county out of the total count.
+3. The county that had the highest turnout.
+
+## Election-Audit Results
+**Additional analysis of the election audit:**
+- There were 369,711 total votes cast
+- The total county votes and percentages include:
+  - Jefferson county recieved 10.5% of the vote and 38,855 votes total.
+  - Denver county recieved 82.8% of the vote and 306,055 votes total.
+  - Arapahoe county recieved 6.7% of the vote and 24,801 votes total.
+- Denver county had the largest number of votes.
+
+## Election-Audit Summary

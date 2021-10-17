@@ -45,3 +45,4 @@ The election commission has requested additional information in order to complet
 - Denver county had the largest number of votes.
 
 ## Election-Audit Summary
+As we can see from the analysis, Denver county had a much higher voter turnout than Jefferson county and Arapahoe county. The candidate that people vote for in Denver will have a much higher chance of winning than the candidates that get votes in the other two counties. It might be useful in the future to analyze how many votes each candidate got in each specific county, rather than just the total amount. This would give us a better idea of who the counties were hoping to win. Because both Jefferson county and Arapahoe county didn't have the highest voter turnouts, it would be a good a idea for the next election to encourage more people to get out and vote. Getting more citizens to vote will create a more accurate respresentation of who the citizens want representing them.
